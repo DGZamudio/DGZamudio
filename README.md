@@ -1,6 +1,6 @@
 <!-- BANNER SUPERIOR -->
 <div align="center">
-  <img src="https://w.wallhaven.cc/full/w8/wallhaven-w8yg77.jpg" width="100%" alt="Header Banner"/>
+  <img src="https://cdn.pfps.gg/banners/16674-black-mafia.jpeg" width="100%" alt="Header Banner"/>
 </div>
 
 <br/>
