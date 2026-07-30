@@ -18,7 +18,7 @@ I am **Diego**, a computer science student and Fullstack Developer.
 <!-- SECCIÓN: TECH STACK / SKILLS -->
 ## 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -33,7 +33,7 @@ I am **Diego**, a computer science student and Fullstack Developer.
 <!-- SECCIÓN: REDES Y CONTACTO -->
 ## 📬 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/diego-zamudio-a23a68324">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
