@@ -1,33 +1,52 @@
+<!-- BANNER SUPERIOR -->
 <div align="center">
-  <a href="https://postimg.cc/pytCmbKy">
-    <img src="https://w.wallhaven.cc/full/w8/wallhaven-w8yg77.jpg" width="100%" alt="Banner"/>
-  </a>
+  <img src="https://w.wallhaven.cc/full/w8/wallhaven-w8yg77.jpg" width="100%" alt="Header Banner"/>
 </div>
 
-<table>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <a href="https://linkedin.com/in/www.linkedin.com/in/diego-zamudio-a23a68324"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white"></a>
-      &nbsp;
-      <a href="mailto:diegozam16@hotmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="middle">
-      <h3>About me</h3>
-    </td>
-  </tr>
-  <tr>
-    <td valign="middle" width="70%">
-      <br>
-      <b>Fullstack Developer in progress<br><br>
-      I am Diego, computer science student.<br><br>
-      Mainly working in development for Avance Juridico, .<br><br>
-    </td>
-    <td align="center" valign="middle" width="30%">
-      <a href="https://postimg.cc/NyFKLkth">
-        <img src="https://i.postimg.cc/YSfYndyS/20260612-021944.png" width="220" alt="About Me Portrait"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<!-- SECCIÓN: ABOUT ME -->
+## 🧠 Know About Me
+
+I am **Diego**, a computer science student and Fullstack Developer. 
+
+* 🔭 Currently working on web applications and backend systems.
+* ⚡ Obsessed with clean UI, minimalist dark themes, and open-source software.
+
+---
+
+<!-- SECCIÓN: TECH STACK / SKILLS -->
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white" />
+</p>
+
+---
+
+<!-- SECCIÓN: REDES Y CONTACTO -->
+## 📬 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/diego-zamudio-a23a68324">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:diegozam16@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- SECCIÓN: ESTADÍSTICAS O GRÁFICOS (OPCIONAL) -->
+## 📊 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DGZamudio&theme=react-dark&hide_border=true" width="100%" />
+</div>
