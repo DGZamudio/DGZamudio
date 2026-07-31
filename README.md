@@ -9,7 +9,7 @@
 
 
 <!-- CONTENEDOR PRINCIPAL -->
-<table style="display: flex">
+<table align="center">
 
   <!-- SECCIÓN 1: ABOUT ME -->
   <tr>
@@ -43,6 +43,7 @@
       <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
       <img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
