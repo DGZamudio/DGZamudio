@@ -61,7 +61,7 @@
   <tr>
     <td align="center" colspan="2" valign="middle">
       <br/>
-      <a href="https://linkedin.com/in/www.linkedin.com/in/diego-zamudio-a23a68324">
+      <a href="https://linkedin.com/in/diego-zamudio-a23a68324">
         <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
       &nbsp;&nbsp;
@@ -76,15 +76,6 @@
 
 <br/>
 
-<!-- FRASE O QUOTE INFERIOR (Opcional, estilo la imagen) -->
 <blockquote align="center">
   <i>"Code is never finished. It only becomes slightly less terrible over time."</i>
 </blockquote>
-
-<br/>
-
-<!-- SECCIÓN 4: ACTIVIDAD / GRÁFICO -->
-<div align="center">
-  <h3>Contribution Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DGZamudio&theme=react-dark&hide_border=true" width="100%" />
-</div>
